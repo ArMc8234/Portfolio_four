@@ -1,0 +1,28 @@
+{
+  "name": "portfolio_four",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this theme!",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArMc8234/Portfolio_four.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArMc8234/Portfolio_four/issues"
+  },
+  "homepage": "https://github.com/ArMc8234/Portfolio_four#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5",
+    "routes": "^2.1.0"
+  }
+}
