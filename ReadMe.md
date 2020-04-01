@@ -1,3 +1,26 @@
+#My Portfolio - 3/27/2020
+
+This portfolio is made from a free bootstrap template from **ThemeWagon**.  This readme file came with the template download, but I wanted to add some details about my modifications.
+
+The template contains the following sections:
+1. The index html 
+    - A header section where the user initially lands
+    - An About section with an image div and heading and p tags.
+    - A nice portfolio section that had dynamic links to filter the categories of content
+    - A contact page that has a form section requiring ajax functionality to make fully functional.
+2. Main.js
+    - Smooth scroll that controls the `<a>` tag activation of links to the various sections
+    - nav menu display functionality
+    - name menu toggling
+    - The typing action in the top header.
+    - The Owl carousel and portfolio
+3. Contactform.js
+    - Listeners to capture the form field 
+    - A switch statement to determine if the form data rules were met.
+    - Ajax post functionality that I redirected to a '/submit' url to save to a Mongo database that I set up.
+
+
+
 Thanks for downloading this theme!
 
 Theme Name: Folio
